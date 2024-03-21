@@ -24,6 +24,7 @@ const page = () => {
         <Skills />
         <Project />
         <CurricularActivities />
+        
         <Footer />
       </div>
     </div>
